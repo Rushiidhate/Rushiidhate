@@ -7,6 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/rushikesh idhate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rushikesh idhate" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -15,3 +16,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rushiidhate&show_icons=true&locale=en&layout=compact" alt="rushiidhate" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rushiidhate&show_icons=true&locale=en" alt="rushiidhate" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rushiidhate&" alt="rushiidhate" /></p>
